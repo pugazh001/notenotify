@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1003948389961",
+    "project_id": "nodenoty-c9cbc",
+    "storage_bucket": "nodenoty-c9cbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003948389961:android:c2e84d94c7c28acef03198",
+        "android_client_info": {
+          "package_name": "com.example.noden"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB18VIyV8uWb07sQF70DmSOeTv3htg2M5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
